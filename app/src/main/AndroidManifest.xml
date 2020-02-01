@@ -11,8 +11,9 @@
         android:theme="@style/AppTheme">
 
 
+        <!--Blutooth Example-->
 
-        <activity android:name=".ThreadExample.MainActivity">
+        <activity android:name=".BluetoothExample.BlutoothActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,8 +21,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".BluetoothExample.BlutoothActivity"/>
-
+        <!--thread Example-->
+        <activity android:name=".ThreadExample.MainActivity"/>
 
     </application>
 

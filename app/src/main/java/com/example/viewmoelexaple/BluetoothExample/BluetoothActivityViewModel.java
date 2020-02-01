@@ -1,4 +1,9 @@
 package com.example.viewmoelexaple.BluetoothExample;
 
-public class BluetoothActivityViewModel {
+import androidx.lifecycle.ViewModel;
+
+public class BluetoothActivityViewModel extends ViewModel {
+
+
+
 }
