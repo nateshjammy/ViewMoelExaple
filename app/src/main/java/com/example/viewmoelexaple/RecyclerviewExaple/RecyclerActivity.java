@@ -1,8 +1,10 @@
-package com.example.viewmoelexaple;
+package com.example.viewmoelexaple.RecyclerviewExaple;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.viewmoelexaple.R;
 
 public class RecyclerActivity extends AppCompatActivity {
 

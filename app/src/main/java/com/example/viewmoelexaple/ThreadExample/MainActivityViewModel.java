@@ -33,7 +33,6 @@ public class MainActivityViewModel extends ViewModel {
         });
     }
 
-
     public MutableLiveData<Integer> getCounter(){
         return  counter;
     }
