@@ -1,4 +1,4 @@
-package com.example.viewmoelexaple.RecyclerviewExaple;
+package com.example.viewmoelexaple.BluetoothExample;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import com.example.viewmoelexaple.R;
 
-public class RecyclerActivity extends AppCompatActivity {
+public class BlutoothActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
