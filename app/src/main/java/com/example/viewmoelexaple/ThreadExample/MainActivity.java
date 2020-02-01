@@ -1,4 +1,4 @@
-package com.example.viewmoelexaple;
+package com.example.viewmoelexaple.ThreadExample;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
@@ -8,6 +8,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.viewmoelexaple.R;
 
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener {
 

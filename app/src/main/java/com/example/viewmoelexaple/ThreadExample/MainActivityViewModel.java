@@ -1,6 +1,8 @@
-package com.example.viewmoelexaple;
+package com.example.viewmoelexaple.ThreadExample;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
+
+import com.example.viewmoelexaple.ThreadExample.MainActivity;
 
 public class MainActivityViewModel extends ViewModel {
 
